@@ -24,6 +24,14 @@ To use this script, you will need Python installed on your system, as well as th
 - `numpy`
 - `tkinter`
 
+```bash
+git clone https://github.com/pentestfunctions/facerecognize.git
+cd facerecognize
+pip install -r requirements.txt
+python liveface.py
+```
+
+
 You can install the necessary libraries using `pip`:
 
 ```bash
